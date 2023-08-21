@@ -1,6 +1,6 @@
 1. requirtments.yaml
 2. Then please follow directions on installing GroundingDINO: https://github.com/IDEA-Research/GroundingDINO
-3. Download the checkpoint retrieval_mscoco_checkpoint_9.pth in base_models/xvlm/
+3. Download the checkpoint retrieval_mscoco_checkpoint_9.pth from https://github.com/zengyan-97/X-VLM into base_models/xvlm/
 
 
 
