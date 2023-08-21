@@ -1,0 +1,3 @@
+*__pycache__
+GroundingDINO
+base_models/xvlm/retrieval_mscoco_checkpoint_9.pth
