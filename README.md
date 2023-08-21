@@ -1,10 +1,12 @@
+Install Dependencies：
 1. requirtments.yaml
 2. Then please follow directions on installing GroundingDINO: https://github.com/IDEA-Research/GroundingDINO
 3. Download the checkpoint retrieval_mscoco_checkpoint_9.pth from https://github.com/zengyan-97/X-VLM into base_models/xvlm/
 
+Run Code：
+    notebooks/visual_program.ipynb
 
-
-
+#############################The following is from a previous paper#####################################################################
 
 # Visual Programming: Compositional visual reasoning without training (CVPR 2023 Best Paper!)
 By [Tanmay Gupta](http://tanmaygupta.info/) and  [Aniruddha Kembhavi](https://anikem.github.io/)
