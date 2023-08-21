@@ -6,7 +6,7 @@ Install Dependencies：
 Run Code：
     notebooks/visual_program.ipynb
 
-#############################The following is from a previous paper#####################################################################
+##########The following is from a previous paper######################
 
 # Visual Programming: Compositional visual reasoning without training (CVPR 2023 Best Paper!)
 By [Tanmay Gupta](http://tanmaygupta.info/) and  [Aniruddha Kembhavi](https://anikem.github.io/)
